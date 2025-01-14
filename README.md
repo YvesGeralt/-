@@ -26,4 +26,4 @@
 | `code` | Code |
 | --- | Horizontal Rule |
 | [Markdown](https://www.markdownguide.org/cheat-sheet/) | Link |
-| ![alt text](image.jpg) | Image |
+| ![alt text](芳泽.jpg) | Image |
